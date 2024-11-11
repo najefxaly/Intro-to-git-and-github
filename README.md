@@ -1,2 +1,2 @@
 # Intro-to-git-and-github
-Introduction of git and github
+This repository includes cheats sheets of git
